@@ -10,10 +10,9 @@ import right from '/images/right.png';
 import angry from '/images/angry.gif';
 import avatar from '/images/avatar.png'
 import DottedButton from './assets/components/Button';
-import SparklesPreview from './assets/components/projects';
+import SparklesPreview from './assets/components/Projects';
 import MyStack from './assets/components/Stack';
 import Marquee from './assets/components/Marquee';
-import Card from './assets/components/Card';
 import { AnimatedTestimonialsDemo } from './assets/components/Testimonials';
 import Test from './assets/components/Test';
 import ResponsiveCard from './assets/components/reponsivecard';
