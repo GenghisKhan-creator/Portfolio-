@@ -1,5 +1,5 @@
 import { AnimatedTestimonials } from "./animated-testimonials";
-import songsore from '/images/Songsore .JPG';
+import songsore from '/images/sonsore.JPG';
 import sammy from '/images/sammy.jpg';
 import aaron from '/images/aaron.JPG';
 import caro from '/images/caro.jpg';

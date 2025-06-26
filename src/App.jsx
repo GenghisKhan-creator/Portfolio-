@@ -169,7 +169,7 @@ function App() {
       <motion.div className="relative font-Grotesk px-5 lg:px-20 rounded-br-[60px] rounded-bl-[60px]" style={{
         backgroundImage,
       }}>
-        <div className='w-full xl:h-fit' id="home">
+        <div className='w-full' id="home">
           <div className='font-Grotesk relative mt-30 md:mt-60 lg:mt-25'>
             <div className='flex justify-center mb-10'>
               <div className='w-30 h-30 bg-[#D1D5DB] left-269 rounded-br-[60px] rounded-bl-[60px] rounded-tr-[60px] rounded-tl-[60px] items-center justify-center flex lg:hidden'>
