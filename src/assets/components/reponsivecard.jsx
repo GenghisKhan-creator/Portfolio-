@@ -43,7 +43,7 @@ export default function ResponsiveCard({ image, title, year, monthly_per, monthl
           </div>
         </div>
       </div>
-      <div className="w-[40rem] h-10 relative">
+      {/* <div className="lg:w-[40rem] lg:h-10 lg:relative">
           <div
             className="absolute inset-x-15 lg:inset-x-10 top-0 items-center bg-gradient-to-r from-transparent via-yellow-500 to-transparent h-[2px] w-3/9 lg:w-3/4 blur-sm" 
           />
@@ -56,7 +56,7 @@ export default function ResponsiveCard({ image, title, year, monthly_per, monthl
           <div
             className="absolute inset-x-20 lg:inset-x-45 items-center top-0 bg-gradient-to-r from-transparent via-yellow-500 to-transparent h-px w-1/4 lg:w-1/4" 
           />
-      </div>
+      </div> */}
     </div>
     </a>
 
